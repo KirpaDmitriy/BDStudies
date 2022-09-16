@@ -4,3 +4,5 @@
 ***Авторы***:
 * Ачарья Никеш
 * Кирпа Дмитрий
+
+![image](https://user-images.githubusercontent.com/80625335/190725927-9f9ebc2a-6b77-4974-a99e-bb1730cc0464.png)
